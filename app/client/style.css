@@ -1,0 +1,100 @@
+.body {
+  background: -webkit-linear-gradient(top, #410099 100px, black 950px) no-repeat center center fixed;
+  font-family: 'Open Sans', "Hiragino Sans", Arial, sans-serif;
+}
+
+.ui.sticky {
+  background-color: #410099;
+}
+
+.promo-header {
+  background-color: #410099;
+}
+
+.promo p{
+  font-weight: 400;
+  font-size: 14px;
+  padding-top: 14px;
+  padding-bottom: 1px;
+  color: white;
+}
+
+.ui.borderless.menu {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  box-shadow: none;
+  border: none;
+  background-color: white;
+  color: #410099;
+}
+
+.navbar .item, .navbar a {
+  color: #410099!important;
+  font-weight: bolder!important;
+}
+
+.middle {
+  background: none;
+  color: white;
+  align-content: flex-start;
+}
+
+
+.middle-menu {
+  background: -webkit-linear-gradient(#410099, #000);
+}
+
+
+.content-description p {
+  font-size: 20px;
+}
+
+.content-description {
+  padding-top: 5%;
+  margin-right: 50%;
+  margin-left: 8%;
+}
+.middle-menu {
+  background-image: linear-gradient(to bottom, transparent, black)!important;
+  background-size: cover!important;
+  position: relative!important;
+}
+
+.middle-middle .anime-image-list img {
+  border-radius: 13px;
+  height: 19em;
+}
+
+.middle-bottom {
+  height: 430px;
+  background: rgb(65, 0, 153) center center;
+  background: radial-gradient(circle, rgba(65, 0, 153, 1) 30%, rgba(0, 0, 0, 1) 100%);
+}
+
+.trial {
+  padding-top: 80px;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.trial a {
+  color: white;
+  background: #FFC72C;
+}
+
+.footer-background {
+  margin-top: 1em;
+  margin-bottom: 3%;
+  color: white;
+  padding: 1% 2%;
+  background-color: #410099;
+}
+
+.footer-background .footer-navigation a.item {
+  color: white!important;
+}
+
+.social-media .Image {
+  width: 20px;
+  height: 20px;
+}
